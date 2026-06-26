@@ -9,7 +9,7 @@ This repository contains implementations of various **Data Structures and Algori
 
 - Arrays
 - Linked Lists
-- Stacks and Queues 
+- Stacks and Queues
 - Trees and Graphs
 - Sorting Algorithms
 - Searching Algorithms
@@ -40,4 +40,4 @@ This repository is regularly updated with new problems and solutions.
 
 ## ⭐ Contribution
 
-Feel free to fork and contribute to this repository.
+Feel free to fork and contribute to this repository. 
