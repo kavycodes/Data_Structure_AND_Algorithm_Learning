@@ -11,7 +11,7 @@ This repository contains implementations of various **Data Structures and Algori
 - Linked Lists 
 - Stacks and Queues 
 - Trees and Graphs
-- Sorting Algorithms
+- Sorting Algorithms 
 - Searching Algorithms
 - Recursion and Backtracking
 - Dynamic Programming
