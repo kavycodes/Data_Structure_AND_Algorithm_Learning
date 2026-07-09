@@ -16,7 +16,7 @@ This repository contains implementations of various **Data Structures and Algori
 - Recursion and Backtracking
 - Dynamic Programming
 
----
+--- 
  
 ## 💡 Purpose
 
