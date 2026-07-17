@@ -5,7 +5,7 @@ This repository contains implementations of various **Data Structures and Algori
 
 ---
 
-## 🚀 Topics Covered
+## 🚀 Topics Covered 
 
 - Arrays 
 - Linked Lists
