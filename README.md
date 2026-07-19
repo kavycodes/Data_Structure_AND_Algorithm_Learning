@@ -10,7 +10,7 @@ This repository contains implementations of various **Data Structures and Algori
 - Arrays 
 - Linked Lists
 - Stacks and Queues 
-- Trees and Graphs
+- Trees and Graphs 
 - Sorting Algorithms
 - Searching Algorithms 
 - Recursion and Backtracking
