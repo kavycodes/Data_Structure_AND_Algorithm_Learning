@@ -13,7 +13,7 @@ This repository contains implementations of various **Data Structures and Algori
 - Trees and Graphs 
 - Sorting Algorithms
 - Searching Algorithms 
-- Recursion and Backtracking
+- Recursion and Backtracking 
 - Dynamic Programming
 
 --- 
